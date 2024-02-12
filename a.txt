@@ -1,0 +1,24 @@
+new testing on a
+
+
+The difference between "main" and "master" primarily lies in the cultural and historical context of the terms within the software development community.
+
+Historical Context: Historically, "master" was commonly used as the default branch name in version control systems like Git. However, the term "master" has been criticized for its potentially offensive connotations, as it can evoke associations with slavery and oppression. As a result, there has been a movement in the tech industry to replace "master" with more neutral terms.
+
+Cultural Sensitivity: In recent years, there has been a growing awareness of the importance of inclusive language and cultural sensitivity in the tech industry. Many organizations and projects have made efforts to adopt more inclusive terminology to promote diversity and inclusivity.
+
+Transition to "Main": As part of this movement towards inclusive language, many projects and platforms have transitioned from using "master" to using "main" as the default branch name. "Main" is seen as a more neutral and inclusive alternative to "master".
+
+Semantic Equivalence: Functionally, "main" and "master" serve the same purpose as the default branch name in Git. They both represent the primary development branch of a repository and typically contain the latest stable version of the project's code.
+
+In summary, while "master" and "main" are functionally equivalent in Git, the shift towards using "main" reflects a broader effort within the tech community to promote inclusivity and sensitivity to language and cultural considerations.
+
+
+what's the different between name "main" and "master"? in the past it was "master", now it seems doc are telling us to use "main" instead. 
+
+
+
+
+
+
+

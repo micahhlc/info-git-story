@@ -60,7 +60,7 @@ git reset --hard HEAD~1
 
 # reset and retrieve from origin/main overwriting local
 
-e.g., git reset --hard origin/main
+git reset --hard origin/main
 
 # Discard changes in a specific file
 
@@ -81,7 +81,3 @@ git diff HEAD^
 # View remote repository details
 
 git remote -v
-
-# Set upstream tracking for main branch
-
-git branch --set-upstream-to=origin/main main
